@@ -1,4 +1,4 @@
-![image](https://github.com/Yogabharathi3/ODD2023-DataScience-Ex-03/assets/118899387/3247788f-55b5-4b6f-889f-61d87dd03221)# ODD2023-DataScience-Ex-03
+# ODD2023-DataScience-Ex-03
 # Aim:
 To read the given data and perform the univariate analysis with different types of plots.
 
